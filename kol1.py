@@ -1,6 +1,6 @@
 # !/usr/bin/python
-from cmd import Cmd
 import datetime
+from cmd import Cmd
 
 client_dictionary = {}
 bank_dictionary = {}
